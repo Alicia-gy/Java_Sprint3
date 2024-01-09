@@ -1,6 +1,6 @@
 package Tasca2.n1;
 
-public class Agencia {
+public class Agencia implements Observer {
 	
 	private String name;
 	
